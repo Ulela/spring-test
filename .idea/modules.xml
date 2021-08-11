@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-di/spring-di.iml" filepath="$PROJECT_DIR$/spring-di/spring-di.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-dl/spring-dl.iml" filepath="$PROJECT_DIR$/spring-dl/spring-dl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-ofType/spring-ofType.iml" filepath="$PROJECT_DIR$/spring-ofType/spring-ofType.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-test.iml" filepath="$PROJECT_DIR$/.idea/spring-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-withanno/spring-withanno.iml" filepath="$PROJECT_DIR$/spring-withanno/spring-withanno.iml" />
     </modules>
   </component>
 </project>

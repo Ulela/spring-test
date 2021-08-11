@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring-dl</module>
+        <module>spring-di</module>
+        <module>spring-ofType</module>
+        <module>spring-withanno</module>
     </modules>
 
     <properties>

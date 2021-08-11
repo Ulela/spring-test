@@ -7,12 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-dl" />
+        <module name="spring-ofType" />
+        <module name="spring-di" />
+        <module name="spring-withanno" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-444" target="8" />
-      <module name="spring-dl" target="11" />
+      <module name="spring-di" target="8" />
+      <module name="spring-dl" target="8" />
+      <module name="spring-ofType" target="8" />
       <module name="spring-test" target="8" />
+      <module name="spring-withanno" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
