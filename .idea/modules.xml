@@ -3,11 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jvm-heap/jvm-heap.iml" filepath="$PROJECT_DIR$/jvm-heap/jvm-heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-InjectValue/spring-InjectValue.iml" filepath="$PROJECT_DIR$/spring-InjectValue/spring-InjectValue.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-configuration/spring-configuration.iml" filepath="$PROJECT_DIR$/spring-configuration/spring-configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-di/spring-di.iml" filepath="$PROJECT_DIR$/spring-di/spring-di.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-dl/spring-dl.iml" filepath="$PROJECT_DIR$/spring-dl/spring-dl.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-ofType/spring-ofType.iml" filepath="$PROJECT_DIR$/spring-ofType/spring-ofType.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/spring-test.iml" filepath="$PROJECT_DIR$/.idea/spring-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-test.iml" filepath="$PROJECT_DIR$/spring-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-withanno/spring-withanno.iml" filepath="$PROJECT_DIR$/spring-withanno/spring-withanno.iml" />
     </modules>
   </component>

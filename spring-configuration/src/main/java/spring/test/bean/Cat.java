@@ -8,6 +8,5 @@ import org.springframework.stereotype.Component;
  * @Date: 2021/8/12 10:18
  */
 @Data
-@Component
 public class Cat {
 }

@@ -9,5 +9,5 @@
 
     <!-- 开启注解配置 -->
     <context:annotation-config />
-    <
+    <bean id="cat" class="spring.test.bean.Cat"/>
 </beans>
