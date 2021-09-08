@@ -16,6 +16,7 @@
         <module>spring-configuration</module>
         <module>jvm-heap</module>
         <module>spring-InjectValue</module>
+        <module>spring-autowired-9</module>
     </modules>
 
     <properties>

@@ -11,12 +11,14 @@
         <module name="spring-configuration" />
         <module name="spring-di" />
         <module name="spring-dl" />
+        <module name="spring-autowired-9" />
         <module name="spring-withanno" />
         <module name="jvm-heap" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jvm-heap" target="8" />
+      <module name="spring-autowired-9" target="8" />
       <module name="spring-configuration" target="8" />
       <module name="spring-di" target="8" />
       <module name="spring-dl" target="8" />

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jvm-heap/jvm-heap.iml" filepath="$PROJECT_DIR$/jvm-heap/jvm-heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-InjectValue/spring-InjectValue.iml" filepath="$PROJECT_DIR$/spring-InjectValue/spring-InjectValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-autowired-9/spring-autowired-9.iml" filepath="$PROJECT_DIR$/spring-autowired-9/spring-autowired-9.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-configuration/spring-configuration.iml" filepath="$PROJECT_DIR$/spring-configuration/spring-configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-di/spring-di.iml" filepath="$PROJECT_DIR$/spring-di/spring-di.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-dl/spring-dl.iml" filepath="$PROJECT_DIR$/spring-dl/spring-dl.iml" />
