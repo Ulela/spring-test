@@ -4,6 +4,9 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         https://www.springframework.org/schema/beans/spring-beans.xsd">
 
+    <!-- 已经提前声明好的Cat -->
+    <bean id="mimi" class="spring.test.bean.Cat"/>
+
     <bean class="spring.test.bean.PersonPlus">
         <property name="names">
             <array>

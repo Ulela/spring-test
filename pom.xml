@@ -17,6 +17,8 @@
         <module>jvm-heap</module>
         <module>spring-InjectValue</module>
         <module>spring-autowired-9</module>
+        <module>spring-aware-10</module>
+        <module>spring-factorybean-11</module>
     </modules>
 
     <properties>

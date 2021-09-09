@@ -6,12 +6,19 @@ import org.springframework.stereotype.Component;
 
 /**
  * @author: chenf
- * @Date: 2021/9/8 14:09
+ * @Date: 2021/9/9 11:08
  */
 @Data
+//@Component
 @ToString
-@Component("miaomiao")
 public class Cat {
-	private String name;
-	private Person person;
+	private String name = "maomi";
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
 }
